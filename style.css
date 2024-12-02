@@ -1,4 +1,7 @@
 /* Gaya dasar */
+
+* {
+    font-family: Monserrat;
 body {
     overflow-x: hidden; /* Menambahkan batasan agar tidak bisa digeser pada sumbu Y */
     font-family: Arial, sans-serif;
